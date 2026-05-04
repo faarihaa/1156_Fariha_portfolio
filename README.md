@@ -2,6 +2,10 @@
 ## About Me
 Hi I am an Fourth Year Computer Science Engineering student interested in multiple Facets of the vast field that is computer science.
 I am currently focusing on Data Science and AI/ML...
+## Education
+- **Undergraduate**Leading University,Sylhet B.Sc. in Computer Science And Engineering (Ongoing) [Current CGPA - 3.41]
+- **HSC** Scholarshome Girls Collage, Sylhet (2021) [GPA - 4.56]
+- **SSC** BlueBird High School, Sylhet (2019) [GPA - 4.50]
 
 ## Languages
 ### Computer Science Related
