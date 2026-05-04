@@ -3,7 +3,6 @@
 Hi I am an Fourth Year Computer Science Engineering student interested in multiple Facets of the vast field that is computer science.
 I am currently focusing on Data Science and AI/ML...
 
-
 ## Languages
 ### Computer Science Related
 - HTML,CSS
