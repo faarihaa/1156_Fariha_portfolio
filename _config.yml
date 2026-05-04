@@ -1,0 +1,158 @@
+# ============================================================
+#  Data Science Portfolio — _config.yml
+#  Theme: Minimal Mistakes (dark skin)
+# ============================================================
+
+# ------ Site Info ------
+title: "Fariha Nowshin"
+subtitle: "Data Science Enthusiast"
+name: "Fariha Nowshin"
+description: >-
+  Data Science Enthusiast inetrested in machine learning, deep learning,
+  and turning messy data into clear decisions.
+
+url: "https://faarihaa.github.io"
+baseurl: ""
+repository: "faarihaa/faarihaa.github.io"
+
+# ------ Theme ------
+# remote_theme: mmistakes/minimal-mistakes@4.26.2
+# minimal_mistakes_skin: "mint"   # Options: default | air | aqua | contrast
+#                                  #          dark | dirt | mint | neon
+#                                  #          plum | sunrise
+
+# plugins:
+#   - jekyll-remote-theme
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-include-cache
+#   - jekyll-seo-tag
+theme: jekyll-theme-minimal
+
+# ------ Author ------
+author:
+  name: "Fariha Nowshin"
+  avatar: "/assets/images/avatar.jpeg"   # Add your photo here
+  bio: >-
+    Data Scientist | ML Engineer | Open Source contributor.
+    I turn data into decisions.
+  location: "Sylhet, Bangladesh"
+  email: "fnowshin2019@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/faarihaa"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/fariha-nowshin-910544263/"
+    - label: "Kaggle"
+      icon: "fab fa-fw fa-kaggle"
+      url: "https://www.kaggle.com/faarihaa"
+
+# ------ Site Footer ------
+# footer:
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/faarihaa"
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/fariha-nowshin-910544263/"
+#     - label: "Kaggle"
+#       icon: "fab fa-fw fa-kaggle"
+#       url: "https://www.kaggle.com/faarihaa"
+
+# ------ Navigation ------
+# navbar:
+#   - title: "About"
+#     url: /about/
+#   - title: "Projects"
+#     url: /projects/
+#   - title: "Blog"
+#     url: /blog/
+#   - title: "Resume"
+#     url: /resume/
+
+# # ------ Collections ------
+# collections:
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
+
+# # ------ Default Front Matter ------
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: false
+#       share: true
+#       related: true
+#   # _pages
+#   - scope:
+#       path: "_pages"
+#       type: pages
+#     values:
+#       layout: single
+#       author_profile: true
+#   # _portfolio
+#   - scope:
+#       path: ""
+#       type: portfolio
+#     values:
+#       layout: single
+#       author_profile: false
+#       share: true
+
+# # ------ Reading / Pagination ------
+# paginate: 5
+# paginate_path: /blog/page:num/
+# words_per_minute: 200
+
+# # ------ Markdown & Highlighting ------
+# markdown: kramdown
+# highlighter: rouge
+
+# kramdown:
+#   input: GFM
+#   hard_wrap: false
+#   auto_ids: true
+#   syntax_highlighter: rouge
+#   syntax_highlighter_opts:
+#     css_class: "highlight"
+#     span:
+#       line_numbers: false
+#     block:
+#       line_numbers: true
+#       start_line: 1
+
+# # ------ Build ------
+# timezone: "Asia/Dhaka"
+# encoding: "utf-8"
+# lang: "en"
+
+# include:
+#   - _pages
+
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - README.md
+#   - LICENSE
+#   - node_modules/
+#   - vendor/
+#   - "*.sh"
+#   - docs/
+
+# ------ Analytics (optional) ------
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-XXXXXXXXXX"
+#     anonymize_ip: false
