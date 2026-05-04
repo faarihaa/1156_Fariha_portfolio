@@ -3,18 +3,5 @@ logo: logo1.jpeg
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-# ------ Theme ------
-remote_theme: mmistakes/minimal-mistakes@4.26.2
-minimal_mistakes_skin: "dark"   # Options: default | air | aqua | contrast
-                                 #          dark | dirt | mint | neon
-                                 #          plum | sunrise
- 
-plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
  
