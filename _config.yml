@@ -6,3 +6,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
  
+baseurl: "/1156_Fariha_Portfolio"
+url: "https://faarihaa.github.io"
